@@ -1,2 +1,4 @@
 # My-First-Repo
-This is my First repository That I'm going to adding
+This is my First repository That I'm going to adding.
+<br/>
+Auther-Hamza Amin
